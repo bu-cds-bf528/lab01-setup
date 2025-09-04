@@ -148,6 +148,11 @@ conda list
 
 **Add a check mark to each box and push your changes to your github repo**
 
+You may add a check mark to a box in markdown by using a x (`- [x]`):
+
+- [x]
+
+
 **Try to complete the basic hello nextflow training on your own time**
 [Nextflow Tutorial](https://training.nextflow.io/latest/hello_nextflow/)
 
