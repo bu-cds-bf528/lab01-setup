@@ -97,7 +97,7 @@ throughout the semester.
 
 [Nextflow](https://docs.google.com/presentation/d/1ibyJSkFIzO08XsZaa7VQr6FfYwapnwS3tPWvxNIlx7k/present?usp=sharing)
 
-## Objectives for today
+## Tasks for today
 
 - [ ] Confirm your email and Github ID in the provided form
 - [ ] Familiarize yourself with SCC OnDemand and VSCode
@@ -110,3 +110,5 @@ throughout the semester.
 
 **Try to complete the basic hello nextflow training on your own time**
 [Nextflow Tutorial](https://training.nextflow.io/latest/hello_nextflow/)
+
+**Please complete the rest of the steps on your own if we run out of time in class**
