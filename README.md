@@ -16,9 +16,12 @@ and at the end, you'll push your changes to your github repo.
 
 **Lecture (30 mins)**
 
+[Nextflow](https://docs.google.com/presentation/d/1ibyJSkFIzO08XsZaa7VQr6FfYwapnwS3tPWvxNIlx7k/present?usp=sharing)
+
 ## SCC and SCC OnDemand
 
 **Lecture (10 minutes)**
+
 [Computational Skills Primer](https://docs.google.com/presentation/d/1FbAWxSftB0tWXEKVv17yU6luyYoJ4PlQsx8qsz6kDHE/present?usp=sharing)
 
 **Activity (5 minutes)**
@@ -40,6 +43,7 @@ Install the following VsCode plugins:
 ## git / github
 
 **Lecture (10 minutes)**
+
 [git / GitHub](https://docs.google.com/presentation/d/17a8OwDCTyIhzgNgsJkEBWzEu2CPm9x3QKy9ZHR5tyxA/present?usp=sharing)
 
 **Activity (10 minutes)**
@@ -59,6 +63,7 @@ enter a password every time.
 ## Conda
 
 **Lecture (10 minutes)**
+
 [Computational environments and conda](https://docs.google.com/presentation/d/1VohllvTaP7Ok77ttB2HStDJPtC3LSu-x3Y652AqBfLo/present?usp=sharing)
 
 **Activity (10 minutes)**
