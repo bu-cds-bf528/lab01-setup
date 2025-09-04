@@ -104,6 +104,31 @@ and it will build a conda environment from the provided to you.
 This will make a conda environment named "nextflow_latest" which you will be using
 throughout the semester. 
 
+Your terminal should now look something like below:
+
+```bash
+(nextflow_latest)[your-username@scc-wl2 lab_01]
+```
+
+The @scc-wl2 will likely be different as this denotes what node your session is running
+on, which is assigned automatically via the queue.
+
+With your environment active, try running nextflow with the `-h`command to see if it
+was properly installed:
+
+```bash
+ nextflow -h
+```
+
+This should print out the help information for running nextflow. 
+
+You can also run the following command to see what packages are installed in your
+environment:
+
+```bash
+conda list
+```
+
 ## Computational Pipeline Strategies
 
 **Lecture (30 mins)**
