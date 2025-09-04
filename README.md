@@ -74,6 +74,19 @@ written instructions, please edit your .condarc according to the directions
 - [ ] Changed where conda stores packages from your home directory to your
 space on /projectnb/bf528/
 
+By the end of this, the .condarc file in your home directory (~/.condarc)
+should look like below:
+
+```bash
+envs_dirs:
+    - /projectnb/bf528/students/<your_loginname>/.conda/envs
+    - ~/.conda/envs
+pkgs_dirs:
+    - /projectnb/bf528/students/<your_loginname>/.conda/pkgs
+    - ~/.conda/pkgs
+env_prompt: ({name})
+```
+Please make sure to replace <your_loginname> with your BU username.
 
 After you have completed the above tasks, please run the following commands
 to create your first conda environment (wait until each command has finished
