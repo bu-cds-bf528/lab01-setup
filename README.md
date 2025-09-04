@@ -108,5 +108,5 @@ throughout the semester.
 
 **Add a check mark to each box and push your changes to your github repo**
 
-**Try to complete the basic hello nextflow training**
+**Try to complete the basic hello nextflow training on your own time**
 [Nextflow Tutorial](https://training.nextflow.io/latest/hello_nextflow/)
