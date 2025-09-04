@@ -5,6 +5,10 @@ we'll be using throughout the semester. While we're going through these various
 activities, please check off the different tasks after you've completed them 
 and at the end, you'll push your changes to your github repo. 
 
+There are extra folders and files here just to get you accustomed to the directory
+setup we will be using throughout the semester. For more details on what each 
+will be used for, please read through the directory_structure.md.
+
 # Objectives
 - Get familiar with the SCC OnDemand and VSCode interfaces
 - Setup your SSH key on the SCC with GitHub
