@@ -16,11 +16,6 @@ will be used for, please read through the directory_structure.md.
 - Install the required VSCode plugins  
 - Confirm your email and Github ID in the provided form
 
-## Computational Pipeline Strategies
-
-**Lecture (30 mins)**
-
-[Nextflow](https://docs.google.com/presentation/d/1ibyJSkFIzO08XsZaa7VQr6FfYwapnwS3tPWvxNIlx7k/present?usp=sharing)
 
 ## SCC and SCC OnDemand
 
@@ -95,6 +90,12 @@ and it will build a conda environment from the provided to you.
 
 This will make a conda environment named "nextflow_latest" which you will be using
 throughout the semester. 
+
+## Computational Pipeline Strategies
+
+**Lecture (30 mins)**
+
+[Nextflow](https://docs.google.com/presentation/d/1ibyJSkFIzO08XsZaa7VQr6FfYwapnwS3tPWvxNIlx7k/present?usp=sharing)
 
 ## Objectives for today
 
