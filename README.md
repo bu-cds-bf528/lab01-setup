@@ -54,6 +54,9 @@ This SSH key will pair your SCC account and github repo and allow you to perform
 basic git operations (push and pull) from the command line without having to 
 enter a password every time.
 
+You will need to remember to make sure you clone the repo using the appropriate
+SSH link, **not** the https protocol. 
+
 - [ ] Successfully setup a SSH key
 - [ ] Accept and clone the github classroom link
 - [ ] Follow along and make a change to your github repo
