@@ -150,7 +150,7 @@ conda list
 
 You may add a check mark to a box in markdown by using a x (`- [x]`):
 
-- [ x ]
+- [x]
 
 
 **Try to complete the basic hello nextflow training on your own time**
