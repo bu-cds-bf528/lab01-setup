@@ -97,7 +97,7 @@ successfully):
 
 ```bash
 module load miniconda
-conda env create -f envs/nextflow_env.yml
+conda env create -f envs/base_env.yml
 conda activate nextflow_latest
 ```
 
