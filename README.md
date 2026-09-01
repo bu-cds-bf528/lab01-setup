@@ -24,6 +24,19 @@ Please go through the steps in order (skip steps if you've already done them).
 
 # Part 2 - Getting familiar with git
 
+Now that your git and Github setup is complete, let's practice two situations
+you'll run into constantly: resolving a merge conflict, and shipping a change
+through a pull request instead of committing straight to `main`.
+
+Do these exercises in the actual repo you cloned from the classroom50
+invitation onto the SCC, at
+`/projectnb/bf528/students/<your_bu_username>/<repo_name>` - **not** a copy
+somewhere else. You'll be pushing and opening pull requests against your real
+Github repo.
+
+1. [Practice: Creating and Resolving a Merge Conflict](docs/09-merge-conflict-exercise/README.md)
+2. [Practice: Branching and Opening a Pull Request](docs/10-branch-pull-request/README.md)
+
 ## AI Attestation for this repository
 
 The content and materials in this repository were written manually by the
