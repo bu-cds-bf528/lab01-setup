@@ -15,6 +15,7 @@ to set up an SSH key.
 You will need to remember to make sure you clone the repo using the appropriate
 SSH link, **not** the https protocol.
 
-- [ ] Successfully set up an SSH key
-- [ ] Accept and clone the provided classroom50 link
-- [ ] Practice a small git cycle of add, commit, push and pull
+Clone it directly into your assigned project directory on the SCC (e.g.
+`/projectnb/bf528/students/<your_bu_username>/`, substituting your class's
+project), not your home directory or elsewhere - you should already have
+this location from the earlier onboarding steps on the internal website.
