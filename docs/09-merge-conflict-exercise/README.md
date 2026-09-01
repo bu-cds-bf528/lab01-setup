@@ -12,7 +12,12 @@ about it and also edit the same line directly on `main` before merging.
 
 In this exercise you will intentionally create a conflict in
 [`merge_conflict.md`](../../merge_conflict.md) and resolve it using the
-built-in merge editor in VS Code.
+built-in merge editor in VS Code. You'll do this by committing directly to
+`main` and merging a branch into it - a normal part of your workflow for
+small changes you're confident in. The next exercise,
+[branching and opening a pull request](../10-branch-pull-request/README.md),
+covers the alternative: routing a change through a PR when you want it
+reviewed first.
 
 ## Steps
 

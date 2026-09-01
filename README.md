@@ -39,8 +39,16 @@ Github repo.
 
 # Part 3 - Explore the directory_structure.md
 
-Read through the directory_structure.md as it describes a generic view of the
-template repository you will be using for most of your projects.
+The repo you've been practicing git with is also the template you'll use to
+structure your actual pipeline projects going forward. Now that you're
+comfortable committing, branching, and merging changes in it, let's look at
+what it's actually for.
+
+## Exploration steps
+
+- [ ] Read through [directory_structure.md](directory_structure.md), which
+      describes a generic view of the template repository you will be using
+      for most of your projects.
 
 ## AI Attestation for this repository
 

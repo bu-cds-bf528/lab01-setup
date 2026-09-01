@@ -1,14 +1,18 @@
 # Practice: Branching and Opening a Pull Request
 
-In practice, when you begin to utilize agentic coding harnesses, we will
-have you try to avoid committing directly to `main`. Instead, changes are
-made on a separate branch and merged in through a pull request (PR), which
-gives you (and your collaborators) a chance to review a diff before it
-becomes part of the shared history. In this exercise you'll practice that
-full cycle: branch, commit, push, open a PR, and merge it on Github. This
-will become an essential cycle once you're using coding agents, as a way to
-ensure your codebase remains functional and to enforce that you understand
-and validate every change being made on your behalf.
+So far you've been committing and merging directly on `main`, which is fine
+for small, low-stakes changes you're confident in. But for anything you want
+reviewed before it becomes part of the shared history - a larger change, a
+collaborator's work, or (increasingly) a change an AI agent made on your
+behalf - the standard workflow is to make the change on a separate branch and
+merge it in through a pull request (PR) instead. A PR gives you a dedicated
+diff view to review before anything lands.
+
+In this exercise you'll practice that full cycle: branch, commit, push, open
+a PR, and merge it on Github. This will become an essential habit once
+you're using coding agents, as a way to ensure your codebase remains
+functional and to enforce that you understand and validate every change
+being made on your behalf.
 
 ## Steps
 
