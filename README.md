@@ -37,6 +37,11 @@ Github repo.
 1. [Practice: Creating and Resolving a Merge Conflict](docs/09-merge-conflict-exercise/README.md)
 2. [Practice: Branching and Opening a Pull Request](docs/10-branch-pull-request/README.md)
 
+# Part 3 - Explore the directory_structure.md
+
+Read through the directory_structure.md as it describes a generic view of the
+template repository you will be using for most of your projects.
+
 ## AI Attestation for this repository
 
 The content and materials in this repository were written manually by the

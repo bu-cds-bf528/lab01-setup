@@ -7,5 +7,5 @@ in
 
 ## Status
 
-This is the original line - you will edit this line differently on two
-separate branches to create a conflict.
+This is the original line - you will edit this line differently on a branch
+and on `main` to create a conflict.
